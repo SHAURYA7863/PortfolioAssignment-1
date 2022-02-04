@@ -1,21 +1,2 @@
 # PortfolioAssignment-1
-Copyright (c) 2022 Shaurya
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Website"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE Website OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+I use the MIT license almost exclusively on all of my open source projects. As far as I’m concerned my best options are either to make my code proprietary or, if it’s open source, then I will always use the MIT license. I refuse to use the GPL because it’s far too liberal even for a liberal guy like me. The MIT license is a great choice because it allows you to share your code under a copyleft license without forcing others to expose their proprietary code, it’s business friendly and open source friendly while still allowing for monetization. Here’s why I use the MIT license and what it’s all about.
